@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add ConstantsLiteral.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnderscoreDalamLiteral.kt" afterDir="false" />
+    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add UnderscoreDalam.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.MainAppKt.executor": "Run",
     "Kotlin.TipeDataKt.executor": "Run",
+    "Kotlin.UnderscoreDalamLiteralKt.executor": "Run",
     "Kotlin.VariabelKt.executor": "Run",
     "Kotlin.VarvsValKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,16 +60,16 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.UnderscoreDalamLiteralKt">
-    <configuration name="BlokdanKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlokdanKotlinKt" />
+  <component name="RunManager" selected="Kotlin.RepresentasiKt">
+    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="DasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
-        <item itemvalue="Kotlin.BlokdanKotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725549211948</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add UnderscoreDalam.kt">
+      <option name="closed" value="true" />
+      <created>1725549539365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725549539365</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +199,8 @@
     <MESSAGE value="add VarvsVal.kt" />
     <MESSAGE value="add TipeData.kt" />
     <MESSAGE value="add ConstantsLiteral.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ConstantsLiteral.kt" />
+    <MESSAGE value="add UnderscoreDalam.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add UnderscoreDalam.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
