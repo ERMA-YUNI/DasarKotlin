@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add KonversiEksplisit.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character(Char).kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add Character(char).kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisitPadaChar.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -51,6 +51,7 @@
     "Kotlin.ConstantsLiteralKt.executor": "Run",
     "Kotlin.KeywordKt.executor": "Run",
     "Kotlin.KonversiEksplisitKt.executor": "Run",
+    "Kotlin.KonversiEksplisitPadaCharKt.executor": "Run",
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.MainAppKt.executor": "Run",
     "Kotlin.RepresentasiKt.executor": "Run",
@@ -64,7 +65,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Character_Char_Kt">
+  <component name="RunManager" selected="Kotlin.KonversiEksplisitPadaCharKt">
     <configuration name="Character_Char_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Character_Char_Kt" />
       <module name="DasarKotlin" />
@@ -72,15 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
+    <configuration name="KonversiEksplisitPadaCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitPadaCharKt" />
       <module name="DasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KonversiEksplisitPadaCharKt" />
         <item itemvalue="Kotlin.Character_Char_Kt" />
         <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
-        <item itemvalue="Kotlin.ConstantsLiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725550461112</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add Character(char).kt">
+      <option name="closed" value="true" />
+      <created>1725550811297</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725550811297</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -222,7 +231,8 @@
     <MESSAGE value="add UnderscoreDalam.kt" />
     <MESSAGE value="add Representasi.kt" />
     <MESSAGE value="add KonversiEksplisit.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add KonversiEksplisit.kt" />
+    <MESSAGE value="add Character(char).kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Character(char).kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
