@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add Literal.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" afterDir="false" />
+    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add Whitespaces.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ERMA-YUNI"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ERMA-YUNI&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ERMA-YUNI/DasarKotlin.git",
-    "accountId": "1551ebb2-1482-4658-955e-b63a72021468"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ERMA-YUNI/DasarKotlin.git&quot;,
+    &quot;accountId&quot;: &quot;1551ebb2-1482-4658-955e-b63a72021468&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -49,13 +49,14 @@
     "Kotlin.KeywordKt.executor": "Run",
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.MainAppKt.executor": "Run",
+    "Kotlin.VariabelKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhitespacesKt">
+  <component name="RunManager" selected="Kotlin.VariabelKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarKotlin" />
@@ -70,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="DasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
       <module name="DasarKotlin" />
@@ -79,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainAppKt" />
@@ -110,12 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725538615792</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Whitespaces.kt">
+      <option name="closed" value="true" />
+      <created>1725539459142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725539459142</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add MainApp.kt" />
     <MESSAGE value="add Literal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Literal.kt" />
+    <MESSAGE value="add Whitespaces.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Whitespaces.kt" />
   </component>
 </project>
