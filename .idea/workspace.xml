@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add VarvsVal.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData.kt" afterDir="false" />
+    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add TipeData.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstantsLiteral.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Kotlin.KeywordKt.executor": "Run",
     "Kotlin.LiteralKt.executor": "Run",
     "Kotlin.MainAppKt.executor": "Run",
+    "Kotlin.TipeDataKt.executor": "Run",
     "Kotlin.VariabelKt.executor": "Run",
     "Kotlin.VarvsValKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,9 +58,16 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TipeDataKt">
+  <component name="RunManager" selected="Kotlin.ConstantsLiteralKt">
     <configuration name="BlokdanKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdanKotlinKt" />
+      <module name="DasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
-      <module name="DasarKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
         <item itemvalue="Kotlin.BlokdanKotlinKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.WhitespacesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725547972472</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add TipeData.kt">
+      <option name="closed" value="true" />
+      <created>1725548811331</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725548811331</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +179,7 @@
     <MESSAGE value="add Variabel.kt" />
     <MESSAGE value="add BlokdanKotlin.kt" />
     <MESSAGE value="add VarvsVal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add VarvsVal.kt" />
+    <MESSAGE value="add TipeData.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TipeData.kt" />
   </component>
 </project>
