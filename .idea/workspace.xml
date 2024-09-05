@@ -65,7 +65,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.KonversiEksplisitPadaCharKt">
+  <component name="RunManager" selected="Kotlin.BololeanKt">
+    <configuration name="BololeanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BololeanKt" />
+      <module name="DasarKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Character_Char_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Character_Char_Kt" />
       <module name="DasarKotlin" />
@@ -94,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderscoreDalamLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderscoreDalamLiteralKt" />
-      <module name="DasarKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BololeanKt" />
         <item itemvalue="Kotlin.KonversiEksplisitPadaCharKt" />
         <item itemvalue="Kotlin.Character_Char_Kt" />
         <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
-        <item itemvalue="Kotlin.UnderscoreDalamLiteralKt" />
       </list>
     </recent_temporary>
   </component>
