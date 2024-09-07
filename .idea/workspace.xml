@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add  ProgramCaesarChiper.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PerintahMasukKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramKalkulatorSederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramsandiMorse.kt" afterDir="false" />
+    <list default="true" id="78e125e3-21ad-41c6-92c8-1d8e085e38f1" name="Changes" comment="add PerintahMasukKotlin.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PerintahMasukKotlinKt">
+  <component name="RunManager" selected="Kotlin.PenerapanStringKt">
     <configuration name="PenerapanStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PenerapanStringKt" />
       <module name="DasarKotlin" />
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PenerapanStringKt" />
+        <item itemvalue="Kotlin.ProgramsandiMorseKt" />
         <item itemvalue="Kotlin.PerintahMasukKotlinKt" />
         <item itemvalue="Kotlin.ProgramKalkulatorSederhanaKt" />
-        <item itemvalue="Kotlin.ProgramsandiMorseKt" />
         <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
-        <item itemvalue="Kotlin.PenerapanStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725555195216</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add PerintahMasukKotlin.kt">
+      <option name="closed" value="true" />
+      <created>1725684141693</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725684141693</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,7 +311,8 @@
     <MESSAGE value="add StringTemptlates.kt" />
     <MESSAGE value="add FungsiAngotaPadaString.kt" />
     <MESSAGE value="add  ProgramCaesarChiper.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  ProgramCaesarChiper.kt" />
+    <MESSAGE value="add PerintahMasukKotlin.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PerintahMasukKotlin.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
